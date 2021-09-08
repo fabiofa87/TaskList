@@ -17,3 +17,4 @@ Desenvolvi usando a livraria de Materialize mas partindo para o foco total nos c
 Nesse pequeno projeto eu pude desenvolver a ideia de criar uma TASK LIST, trabalhando com input jogando à UL>LI, deletando, criando um filtro para comparar e encontrar o match do que a pessoa quer.
 As funções e variaveis foram escritas em Inglês. Meu teclado é americano e vivo nos EUA(no momento). Desenvolver em inglês se torna algo mais prático usando bons costumes na hora de definir variáveis e funções.
 
+Link: hard-library.surge.sh
